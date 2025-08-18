@@ -1,0 +1,71 @@
+section.hero-site {
+  position: relative;
+  height: 100vh;
+  background-image: url(../images/travel-site-banner-2.png); /*fallback*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  overflow: hidden;
+  z-index: 1;
+}
+
+section.hero-site::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.600);
+  z-index: 0;
+}
+
+.hero-site .interface {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  position: relative;
+}
+
+.hero-site .txt-hero h1 {
+  font-size: 4em;
+  line-height: 70px;
+  font-weight: 200;
+  z-index: 2;
+}
+
+.hero-site .txt-hero h1 span {
+  display: block;
+  font-weight: 800;
+}
+
+.hero-site .txt-hero p {
+  font-size: 20px;
+  font-weight: 300;
+  margin: 20px 0;
+}
+
+.hero-site .txt-hero p span {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.hero-site button {
+  width: 220px;
+  height: 60px;
+  font-size: 20px;
+}
+
+/* hero-site and fade-transition */
+
+.hero-site.fade-transition {
+  transition: background-image 0.9s ease-in-out, opacity 0.8s ease-in-out;
+  opacity: 1;
+}
+
+.hero-site.fade-transition.fade-out {
+  opacity: 0;
+}
+
+/* end hero-site and fade-transition */

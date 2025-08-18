@@ -1,0 +1,35 @@
+header .logo img.black-logo {
+  display: none;
+}
+
+header.scroll {
+    background-color: #fff;
+    padding: 20px 0;
+    box-shadow: 0 0 8px #00000062;
+}
+
+header.scroll .menu-desktop nav ul li a {
+  color: #000;
+}
+
+header.scroll .btn-contact button {
+    border: 1px solid #000;
+    color: #000;
+}
+
+header.scroll .btn-contact button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+header.scroll .logo .white-logo {
+  display: none;
+}
+
+header.scroll .logo .black-logo {
+  display: block;
+}
+
+header.scroll .menu-desktop nav ul li a::after {
+  background: #000;
+}
