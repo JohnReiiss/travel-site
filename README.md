@@ -11,7 +11,11 @@ Bem-vindo ao Travel-Site, uma landing page moderna e visualmente atraente, desen
 <br>
 
 <div align="center">
-  <img src="src/images/Captura de tela 2025-08-18 115801.png" alt="Demonstração do Travel-Site" width="800"/>
+  <img src="src/images/Captura de tela 2025-08-18 115801.png" alt="Demonstração do Travel-Site versão web" width="800"/>
+</div>
+
+<div align="center">
+  <img src="src/images/Captura de tela 2025-08-20 130103.png" alt="Demonstração do Travel-Site versão mobile" width="800"/>
 </div>
 
 ## ✨ Funcionalidades Principais
@@ -91,7 +95,9 @@ Por ser um projeto puramente estático (front-end), não há necessidade de um s
 ## 📌 Demonstração em Vídeo
 
 <div align="center"> 
-  <p>Acesse aqui o vídeo de demonstração <a href="https://drive.google.com/file/d/1BKPXX7ofaMsk4Fvf74Q82PG4dMueN6jV/view?usp=sharing">🎥 Clique aqui para assistir ao vídeo</a></p> 
+  <p>Acesse aqui o vídeo de demonstração do site para desktop <a href="https://drive.google.com/file/d/1BKPXX7ofaMsk4Fvf74Q82PG4dMueN6jV/view?usp=sharing">🎥 Clique aqui para assistir ao vídeo</a></p>
+
+  <p>Acesse aqui o vídeo de demonstração do site para mobile <a href="https://drive.google.com/file/d/1p7jgqbwvUO9qdKZXgLE7mI7Mv3ZMl-b1/view?usp=sharing">🎥 Clique aqui para assistir ao vídeo</a></p> 
 </div>
 
 ## ✉️ Contato
