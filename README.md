@@ -10,9 +10,13 @@ Bem-vindo ao Travel-Site, uma landing page moderna e visualmente atraente, desen
 
 <br>
 
+## 🧑‍💻 Versão Web
+
 <div align="center">
   <img src="src/images/Captura de tela 2025-08-18 115801.png" alt="Demonstração do Travel-Site versão web" width="800"/>
 </div>
+
+## 📱 Versão Mobile
 
 <div align="center">
   <img src="src/images/Captura de tela 2025-08-20 130103.png" alt="Demonstração do Travel-Site versão mobile" width="800"/>
