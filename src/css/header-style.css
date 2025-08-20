@@ -75,3 +75,43 @@ header .btn-contact button {
   width: 140px;
   height: 50px;
 }
+
+/* btn-menu-mob style */
+
+header .btn-menu-mob {
+  display: none;
+  position: relative;
+  z-index: 999999999;
+}
+
+header .btn-menu-mob div {
+  background-color: #fff;
+  height: 3px;
+  margin: 10px 0;
+  transition: 0.3s;
+}
+
+header .btn-menu-mob,
+.line-menumob-1 {
+  width: 30px;
+}
+
+header .btn-menu-mob,
+.line-menumob-2 {
+  width: 20px;
+}
+
+header.scroll .btn-menu-mob div {
+  background-color: #000;
+}
+
+header .btn-menu-mob .line-menumob-1.active1 {
+  transform: rotate(45deg) translate(5px, 5px);
+  background-color: #fff;
+}
+
+header .btn-menu-mob .line-menumob-2.active2 {
+  transform: rotate(-45deg) translate(5px, -5px);
+  width: 30px;
+  background-color: #fff;
+}
